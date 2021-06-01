@@ -8,7 +8,9 @@ This repository contains information referenced during Sean Donnelly's 2021 Inte
 
 * Weekly Roundup of DFIR Content – https://thisweekin4n6.com/ 
 * Monthly Podcast – https://podcasts.apple.com/au/podcast/this-week-in-4n6-podcasts/id1266572767?mt=2
-* Free Digital Forensics Training – https://freetraining.dfirdiva.com/free-digital-forensics-training
+* Free Digital Forensics Training
+  * https://learn.cyberdefenders.org/courses/introduction-to-digital-forensics
+  * https://freetraining.dfirdiva.com/free-digital-forensics-training
 * DFIR CTFs
   * https://github.com/stuxnet999/MemLabs
   * https://cyberdefenders.org/labs/?type=ctf
