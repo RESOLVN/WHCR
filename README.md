@@ -25,6 +25,6 @@ This repository contains information referenced during Sean Donnelly's 2021 Inte
 * Training Labs / Cyber Ranges
   * DetectionLab – https://detectionlab.network
   * BlueCloud Cyber Range – https://blue.iknowjason.io/
-  * "Building a Lab" YouTube playlist – https://www.youtube.com/playlist?list=PLIQlcXRut9IPF8cJSSf0-BsoFy_1SOGYQ
-* Reddit Thread – r/blueteamsec
+  * "Building a Lab" YouTube playlist – https://youtube.com/playlist?list=PLIQlcXRut9IPF8cJSSf0-BsoFy_1SOGYQ
+* r/blueteamsec Reddit Thread – https://reddit.com/r/blueteamsec/
 * Digital Forensics Discord Server – https://discord.com/invite/pNMZunG
