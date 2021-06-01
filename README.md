@@ -24,3 +24,4 @@ This repository contains information referenced during Sean Donnelly's 2021 Inte
   * DetectionLab – https://detectionlab.network
   * BlueCloud Cyber Range – https://blue.iknowjason.io/
   * "Building a Lab" YouTube playlist – https://www.youtube.com/playlist?list=PLIQlcXRut9IPF8cJSSf0-BsoFy_1SOGYQ
+* Reddit Thread – r/blueteamsec
